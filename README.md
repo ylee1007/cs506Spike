@@ -1,3 +1,3 @@
 # cs506Spike
 
-npm run wat
+npm run watch
