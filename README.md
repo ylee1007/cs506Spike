@@ -10,4 +10,5 @@ Create an informative and interactive system that shares information about you a
 6. (Extra Credit – Stretch Goals): Upload and store pictures in the system database.
 
 MongoDB, Node.js, HTML, CSS
+
 npm run watch
